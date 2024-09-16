@@ -1,4 +1,4 @@
-# Check Out Website - https://atharv7125.github.io/Campus-Search/
+## Check Out Website - https://atharv7125.github.io/Campus-Search/
 
 # Campus Search
 
