@@ -1,4 +1,4 @@
-## Check Out Website - https://atharv7125.github.io/Campus-Search/
+### Check Out Website - https://atharv7125.github.io/Campus-Search/
 
 # Campus Search
 
@@ -62,5 +62,5 @@ campus-search/
 ## Contact
 For any questions or suggestions, feel free to contact me:
 
-- **Email:** your-email@example.com
+- **Email:** atharvemusale2003@gmail.com
 - **GitHub:** Atharv7125
